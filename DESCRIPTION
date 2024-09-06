@@ -1,0 +1,13 @@
+Package: complexcalculating
+Type: Package
+Title: Calculating with complex numbers
+Version: 0.1.0
+Author: David Höller
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: All the functions in this package concetrate on the basic calculation of two complex numers.
+They are in the form z = a + b*i and w = c + d*i with real numers a, b, c and d and i as the imaginary unit with i² = -1.
+You give these numers to the functions in the form "function"(a,b,c,d), see also the examples in the documentary.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
